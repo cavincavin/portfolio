@@ -1,4 +1,13 @@
 export default {
+
+  router: {
+    base: '/portfolio/'
+  },
+
+  generate: {
+    dir: 'docs'
+  },
+
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
